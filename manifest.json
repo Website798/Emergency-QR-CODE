@@ -1,0 +1,9 @@
+{
+  "name": "Emergency QR Generator",
+  "short_name": "EmergencyQR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": []
+}
